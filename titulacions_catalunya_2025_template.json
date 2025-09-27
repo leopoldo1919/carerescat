@@ -1,0 +1,3894 @@
+[
+  {
+    "codi": "10120",
+    "nom_carrera": "Investigació Privada (Títol propi, no oficial)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11001",
+    "nom_carrera": "Antropologia Social i Cultural",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11002",
+    "nom_carrera": "Biologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11003",
+    "nom_carrera": "Bioquímica",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11004",
+    "nom_carrera": "Biotecnologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11005",
+    "nom_carrera": "Ciències Ambientals",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11006",
+    "nom_carrera": "Ciències Biomèdiques",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11007",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11008",
+    "nom_carrera": "Ciències Polítiques i de l'Administració",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11010",
+    "nom_carrera": "Criminologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11011",
+    "nom_carrera": "Turisme 'CETT'",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11012",
+    "nom_carrera": "Dret",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11013",
+    "nom_carrera": "Educació Infantil",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11014",
+    "nom_carrera": "Educació Primària",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11015",
+    "nom_carrera": "Educació Social",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11016",
+    "nom_carrera": "Matemàtiques / Enginyeria Informàtica (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11017",
+    "nom_carrera": "Enginyeria Electrònica de Telecomunicació",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11018",
+    "nom_carrera": "Enginyeria Informàtica",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11019",
+    "nom_carrera": "Enginyeria Química",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11020",
+    "nom_carrera": "Matemàtiques / Física (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11021",
+    "nom_carrera": "Estudis Anglesos",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11023",
+    "nom_carrera": "Estudis Literaris",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11024",
+    "nom_carrera": "Farmàcia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11025",
+    "nom_carrera": "Filologia Catalana",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11026",
+    "nom_carrera": "Filologia Clàssica",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11027",
+    "nom_carrera": "Filologia Hispànica",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11029",
+    "nom_carrera": "Arqueologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11030",
+    "nom_carrera": "Física",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11032",
+    "nom_carrera": "Geologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11033",
+    "nom_carrera": "Administració i Direcció d'Empreses",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11034",
+    "nom_carrera": "Història de l'Art",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11035",
+    "nom_carrera": "Història",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11037",
+    "nom_carrera": "Infermeria (Campus Clínic)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11039",
+    "nom_carrera": "Llengua i Literatura Catalanes",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11040",
+    "nom_carrera": "Llengües Romàniques i les seves Literatures",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11041",
+    "nom_carrera": "Matemàtiques",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11043",
+    "nom_carrera": "Medicina (Campus Clínic)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11044",
+    "nom_carrera": "Odontologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11045",
+    "nom_carrera": "Pedagogia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11046",
+    "nom_carrera": "UVic-UCC CS",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11047",
+    "nom_carrera": "Psicologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11049",
+    "nom_carrera": "Química",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11051",
+    "nom_carrera": "Treball Social",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11052",
+    "nom_carrera": "Gestió i Administració Pública",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11054",
+    "nom_carrera": "Ciència i Tecnologia dels Aliments",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11059",
+    "nom_carrera": "Enginyeria Biomèdica",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11060",
+    "nom_carrera": "Enginyeria de Materials",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11061",
+    "nom_carrera": "AH 0,1 0,1",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11062",
+    "nom_carrera": "Nutrició Humana i Dietètica",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11063",
+    "nom_carrera": "Sociologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11064",
+    "nom_carrera": "Administració i Direcció d'Empreses / Dret (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11065",
+    "nom_carrera": "Dret / Ciències Polítiques i de l'Administració (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11066",
+    "nom_carrera": "Matemàtiques / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11072",
+    "nom_carrera": "Educació Primària / Educació Infantil (5 anys) (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11073",
+    "nom_carrera": "Empresa Internacional (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11075",
+    "nom_carrera": "Nutrició Humana i Dietètica / Farmàcia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11076",
+    "nom_carrera": "Seguretat",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11077",
+    "nom_carrera": "Ciències del Mar",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11081",
+    "nom_carrera": "Infermeria (Campus Clínic)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11082",
+    "nom_carrera": "Logística Empresarial \"Mediterrani\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11083",
+    "nom_carrera": "Medicina (Campus Bellvitge)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11086",
+    "nom_carrera": "Turisme \"CETT\" (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11090",
+    "nom_carrera": "Sociologia / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11091",
+    "nom_carrera": "Gestió d'Informació i Documentació Digital",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11093",
+    "nom_carrera": "Publicitat, Relacions Públiques i Màrqueting \"ESRP\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11094",
+    "nom_carrera": "Estudis d'Anglès i Català",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11095",
+    "nom_carrera": "Química / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11096",
+    "nom_carrera": "Història / Arqueologia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11097",
+    "nom_carrera": "Comunicació Audiovisual",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11098",
+    "nom_carrera": "CSJ 0,2 0,2",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11099",
+    "nom_carrera": "Belles Arts",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11100",
+    "nom_carrera": "Criminologia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11101",
+    "nom_carrera": "Disseny",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11102",
+    "nom_carrera": "Negoci Digital i Innovació en Turisme \"CETT\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11103",
+    "nom_carrera": "Economia",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11104",
+    "nom_carrera": "Història de l'Art / Història (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11105",
+    "nom_carrera": "Cinematografia \"ESCAC\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11106",
+    "nom_carrera": "Disseny i Desenvolupament de Videojocs i Jocs Aplicats \"ENTI\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11107",
+    "nom_carrera": "Disseny, Animació i Art Digital per a Videojocs i Jocs Aplicats\"ENTI\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11108",
+    "nom_carrera": "Geografia i Canvi Global",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11109",
+    "nom_carrera": "Ciència i Enginyeria de Dades",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11110",
+    "nom_carrera": "Direcció i Gestió Gastronòmica \"Barcelona Culinary Hub\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11111",
+    "nom_carrera": "Producció de Música i So per a la Indústria de l'Entreteniment",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11112",
+    "nom_carrera": "CSJ 0,1 0,1",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11113",
+    "nom_carrera": "Ciències Culinàries i Gastronòmiques \"CETT\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11114",
+    "nom_carrera": "Direcció Hotelera Internacional \"CETT\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11115",
+    "nom_carrera": "Màrqueting, Esdeveniments i Entreteniment \"CETT\"",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11116",
+    "nom_carrera": "Relacions Laborals i Recursos Humans",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11117",
+    "nom_carrera": "Comunicació i Industries Culturals",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "11118",
+    "nom_carrera": "Direcció Hotelera Internacional i Màrqueting, Esdeveniments i",
+    "tipus": "Grau",
+    "universitat": "UB",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "21003",
+    "nom_carrera": "Matemàtiques",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21008",
+    "nom_carrera": "Biologia Ambiental",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21009",
+    "nom_carrera": "Biologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21010",
+    "nom_carrera": "Ciències Biomèdiques",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21011",
+    "nom_carrera": "Bioquímica",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21012",
+    "nom_carrera": "Biotecnologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21013",
+    "nom_carrera": "Ciència Política i Gestió Pública",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21014",
+    "nom_carrera": "Administració i Direcció d'Empreses (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21015",
+    "nom_carrera": "Disseny \"EINA\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21016",
+    "nom_carrera": "Educació Infantil",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21018",
+    "nom_carrera": "Educació Primària",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21019",
+    "nom_carrera": "Educació Social",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21020",
+    "nom_carrera": "Arts i Disseny \"Massana\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21021",
+    "nom_carrera": "Ciència i Tecnologia dels Aliments",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21022",
+    "nom_carrera": "Enginyeria en Organització Industrial \"EU Salesiana de Sarrià\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21025",
+    "nom_carrera": "Sarrià\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21026",
+    "nom_carrera": "Enginyeria Mecànica \"EU Salesiana de Sarrià\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21030",
+    "nom_carrera": "Estudis d'Àsia Oriental -Japonès",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21032",
+    "nom_carrera": "Filosofia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21033",
+    "nom_carrera": "Fisioteràpia \"Gimbernat\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21035",
+    "nom_carrera": "Geografia i Canvi Global",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21037",
+    "nom_carrera": "Geologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21038",
+    "nom_carrera": "Gestió Aeronàutica",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21039",
+    "nom_carrera": "Història de l'Art",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21040",
+    "nom_carrera": "Història",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21041",
+    "nom_carrera": "Infermeria EUIT de Terrassa",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21042",
+    "nom_carrera": "Infermeria \"Gimbernat\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21043",
+    "nom_carrera": "Infermeria \"Sant Pau\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21044",
+    "nom_carrera": "Infermeria",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21046",
+    "nom_carrera": "Innovació i Seguretat Alimentària",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21048",
+    "nom_carrera": "Màrqueting \"Mediterrani\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21050",
+    "nom_carrera": "Microbiologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21051",
+    "nom_carrera": "Nanociència i Nanotecnologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21052",
+    "nom_carrera": "Pedagogia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21054",
+    "nom_carrera": "Prevenció i Seguretat Integral",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21055",
+    "nom_carrera": "Relacions Laborals",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21056",
+    "nom_carrera": "Sociologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21057",
+    "nom_carrera": "Teràpia Ocupacional EUIT de Terrassa",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21058",
+    "nom_carrera": "Traducció i Interpretació - Alemany",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21059",
+    "nom_carrera": "Turisme",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21064",
+    "nom_carrera": "Traducció i Interpretació - Anglès",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21065",
+    "nom_carrera": "Traducció i Interpretació - Francès",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21067",
+    "nom_carrera": "Estudis de Català i Espanyol",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21068",
+    "nom_carrera": "Criminologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21070",
+    "nom_carrera": "Economia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21071",
+    "nom_carrera": "Enginyeria Informàtica",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21079",
+    "nom_carrera": "Medicina",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21081",
+    "nom_carrera": "Psicologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21082",
+    "nom_carrera": "Química",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21083",
+    "nom_carrera": "Veterinària",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21084",
+    "nom_carrera": "Comptabilitat i Finances",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21085",
+    "nom_carrera": "Comunicació Audiovisual",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21086",
+    "nom_carrera": "Dret",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21087",
+    "nom_carrera": "Empresa i Tecnologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21090",
+    "nom_carrera": "Enginyeria Química",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21095",
+    "nom_carrera": "Fisioteràpia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21096",
+    "nom_carrera": "Periodisme",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21097",
+    "nom_carrera": "Publicitat i Relacions Públiques",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21098",
+    "nom_carrera": "Administració i Direcció d'Empreses / Dret (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21099",
+    "nom_carrera": "Administració i Direcció d'Empreses i Transformació de Negocis",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21101",
+    "nom_carrera": "Humanitats",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21102",
+    "nom_carrera": "Educació Primària (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21104",
+    "nom_carrera": "Dret / Ciència Política i Gestió Pública (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21105",
+    "nom_carrera": "Enginyeria de Sistemes de Telecomunicació / Enginyeria Informàtica (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21106",
+    "nom_carrera": "Enginyeria Electrònica de Telecomunicació / Enginyeria Informàtica (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21107",
+    "nom_carrera": "Direcció Hotelera",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21108",
+    "nom_carrera": "Dret / Criminologia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21109",
+    "nom_carrera": "Relacions Laborals / Dret (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21110",
+    "nom_carrera": "Economia (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21111",
+    "nom_carrera": "Educació Primària / Educació Infantil (5 anys) (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21112",
+    "nom_carrera": "\"EU Salesiana de Sarrià\" (simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21113",
+    "nom_carrera": "Prevenció i Seguretat Integral (En Xarxa)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21114",
+    "nom_carrera": "Turisme (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21115",
+    "nom_carrera": "Enginyeria de Sistemes de Telecomunicació / Enginyeria Electrònica de Telecomunicació (Agrupació)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21117",
+    "nom_carrera": "Ciències de l'Antiguitat",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21118",
+    "nom_carrera": "Enginyeria de Dades",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21121",
+    "nom_carrera": "Comunicació de les Organitzacions",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21122",
+    "nom_carrera": "Matemàtica Computacional i Analítica de Dades",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21123",
+    "nom_carrera": "Relacions Internacionals",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21124",
+    "nom_carrera": "Geografia, Medi Ambient i Planificació Territorial",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21125",
+    "nom_carrera": "Sociologia / Ciència Política i Gestió Pública (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },  
+  {
+    "codi": "21125",
+    "nom_carrera": "Ciència Política i Gestió Pública (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21126",
+    "nom_carrera": "Comunicació Interactiva",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21127",
+    "nom_carrera": "Salesiana de Sarrià\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21128",
+    "nom_carrera": "Estadística Aplicada",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21129",
+    "nom_carrera": "Sociologia / Estadística Aplicada (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21131",
+    "nom_carrera": "Ciències",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21132",
+    "nom_carrera": "Enginyeria d'Automoció \"EU Salesiana de Sarrià\"",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21133",
+    "nom_carrera": "Estudis d'Espanyol i Xinès: Llengua, Literatura i Cultura",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21134",
+    "nom_carrera": "Filologia Catalana: Estudis de Literatura i Lingüística",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21135",
+    "nom_carrera": "Estudis Anglesos",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21136",
+    "nom_carrera": "Llengua i Literatura Hispàniques",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21137",
+    "nom_carrera": "Ciència, Tecnologia i Humanitats",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21138",
+    "nom_carrera": "Història, Política i Economia Contemporànies",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21139",
+    "nom_carrera": "Intelꞏligència Artificial / Artificial Intelligence (docència en anglès)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21140",
+    "nom_carrera": "Estudis d'Anglès i de Clàssiques",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21141",
+    "nom_carrera": "Estudis d'Anglès i Espanyol",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21142",
+    "nom_carrera": "Estudis d'Anglès i Francès",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21143",
+    "nom_carrera": "Estudis d'Àsia Oriental -Japonès-",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21144",
+    "nom_carrera": "Estudis d'Espanyol i Xinès: Llengua, Literatura i Cultura",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21145",
+    "nom_carrera": "Relacions Internacionals / Dret (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21146",
+    "nom_carrera": "Arqueologia / Història (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21147",
+    "nom_carrera": "Ciències Ambientals",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21148",
+    "nom_carrera": "Farmàcia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21149",
+    "nom_carrera": "Gestió de Ciutats Intelꞏligents i Sostenibles",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21150",
+    "nom_carrera": "Nanociència i Nanotecnologia",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21151",
+    "nom_carrera": "Geologia / Ciències Ambientals (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21152",
+    "nom_carrera": "Antropologia Social i Cultural",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21167",
+    "nom_carrera": "(simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21168",
+    "nom_carrera": "Física",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21169",
+    "nom_carrera": "Matemàtiques / Física (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "21170",
+    "nom_carrera": "Química / Física (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UAB",
+    "ciutat": "Cerdanyola del Vallès"
+  },
+  {
+    "codi": "31004",
+    "nom_carrera": "Enginyeria Alimentària",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31006",
+    "nom_carrera": "(Vilanova i la Geltrú)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31010",
+    "nom_carrera": "Enginyeria de Sistemes Audiovisuals",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31011",
+    "nom_carrera": "Enginyeria de Sistemes Biològics",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31015",
+    "nom_carrera": "Automàtica / Eng. de Tecnologia i Disseny Tèxtil / Eng. Mecànica",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31016",
+    "nom_carrera": "Arquitectura Tècnica i Edificació",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31022",
+    "nom_carrera": "(Terrassa)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31025",
+    "nom_carrera": "Enginyeria de Materials",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31027",
+    "nom_carrera": "Enginyeria Mecànica",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31031",
+    "nom_carrera": "Enginyeria Física",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31037",
+    "nom_carrera": "Enginyeria Informàtica (Vilanova i la Geltrú)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31038",
+    "nom_carrera": "Tecnologies Marines",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31040",
+    "nom_carrera": "Matemàtiques",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31045",
+    "nom_carrera": "Nàutica i Transport Marítim",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31049",
+    "nom_carrera": "Enginyeria en Sistemes i Tecnologia Naval",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31051",
+    "nom_carrera": "Enginyeria Biomèdica",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31052",
+    "nom_carrera": "Enginyeria de l'Energia",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31053",
+    "nom_carrera": "Enginyeria Elèctrica",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31054",
+    "nom_carrera": "Enginyeria Electrònica Industrial i Automàtica",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31055",
+    "nom_carrera": "Enginyeria Química",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31059",
+    "nom_carrera": "Enginyeria Informàtica (Barcelona)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31065",
+    "nom_carrera": "Enginyeria de Sistemes TIC (Àmbit d'Informàtica i Comunicacions)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31067",
+    "nom_carrera": "Enginyeria Física",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31074",
+    "nom_carrera": "Disseny i Desenvolupament de Videojocs (Campus Terrassa)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31076",
+    "nom_carrera": "Enginyeria Telemàtica / Enginyeria de Sistemes de Telecomunicació (inclou xarxes i Internet) (Agrupació)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31077",
+    "nom_carrera": "Enginyeria de Sistemes de Telecomunicació / Enginyeria Telemàtica (Inclou Xarxes i Internet) (Febrer) (Agrupació)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31078",
+    "nom_carrera": "Arquitectura, Estudis d' (Barcelona)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31079",
+    "nom_carrera": "Arquitectura, Estudis d' (Sant Cugat del Vallès)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31083",
+    "nom_carrera": "(Campus Barcelona)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31084",
+    "nom_carrera": "Enginyeria de Sistemes Aeroespacials",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31085",
+    "nom_carrera": "Eng. de Sistemes Aeroespacials / Eng. de Sistemes de Telecomunicació - Eng. Telemàtica (Agrupació de Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31086",
+    "nom_carrera": "(especialitats en Telecomunicació, Audiovisuals, i Telemàtica, que",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31087",
+    "nom_carrera": "Enginyeria en Geoinformació i Geomàtica",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31089",
+    "nom_carrera": "Ciència i Producció Animal / Veterinària (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31091",
+    "nom_carrera": "Enginyeria d'Automoció (Campus Manresa)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31096",
+    "nom_carrera": "Ciències Polítiques i de l'Administració",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31097",
+    "nom_carrera": "Enginyeria de Ciències Agronòmiques",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31098",
+    "nom_carrera": "Paisatgisme",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31099",
+    "nom_carrera": "Enginyeria Electrònica de Telecomunicació",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31100",
+    "nom_carrera": "Enginyeria Ambiental",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31103",
+    "nom_carrera": "Enginyeria Civil",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31104",
+    "nom_carrera": "Mecànica / Eng. de Recursos Minerals i el seu Reciclatge",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31105",
+    "nom_carrera": "Òptica i Optometria",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31106",
+    "nom_carrera": "Intelꞏligència Artificial",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31111",
+    "nom_carrera": "Enginyeria de Tecnologies i Serveis de Telecomunicació (especialitats en Telecomunicació, Audiovisuals, i Telemàtica, que inclou xarxes i internet). Grau en + Màster Universitari en Enginyeria de Telecomunicació (PARS: Enginyeria de Telecomunicació",
+    "tipus": "Master",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31112",
+    "nom_carrera": "Enginyeria en Tecnologies Aeroespacials, Grau en + Màster Universitari en Enginyeria Aeronàutica (PARS: Enginyer/a Aeronàutic/a)",
+    "tipus": "Master",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31113",
+    "nom_carrera": "Enginyeria Civil, Grau en + Màster Universitari en Enginyeria de Camins, Canals i Ports (PARS: Enginyer/a de Camins, Canals i Ports)",
+    "tipus": "Master",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31114",
+    "nom_carrera": "Enginyeria en Tecnologies Industrials, Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial) (Terrassa)",
+    "tipus": "Master",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31115",
+    "nom_carrera": "Enginyeria en Tecnologies Industrials, Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial) (Barcelona)",
+    "tipus": "Master",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31116",
+    "nom_carrera": "Enginyeria Informàtica, Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a)",
+    "tipus": "Master",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31121",
+    "nom_carrera": "Disseny Digital i Tecnologies Multimèdia",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31122",
+    "nom_carrera": "Disseny, Animació i Art Digital ",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31123",
+    "nom_carrera": "Enginyeria de Satèlꞏlits",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31124",
+    "nom_carrera": "Elèctrica i Sistemes Ferroviaris (Agrupació)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31125",
+    "nom_carrera": "(semipresencial)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31126",
+    "nom_carrera": "Empresa, Innovació i Tecnologia \"EUNCET\" (Campus 22@)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31127",
+    "nom_carrera": "(semipresencial)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31128",
+    "nom_carrera": "Empresa, Innovació i Tecnologia \"EUNCET\" (Campus Terrassa)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31129",
+    "nom_carrera": "CSJ 0,2 0,2 0,2",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31130",
+    "nom_carrera": "Tecnologia \"EUNCET\" (Campus Terrassa) (presencial)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31131",
+    "nom_carrera": "CSJ 0,2 0,2",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31132",
+    "nom_carrera": "Màrqueting, Innovació i Tecnologia \"EUNCET\" (Campus 22@)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31133",
+    "nom_carrera": "CSJ 0,2 0,2",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31134",
+    "nom_carrera": "Màrqueting, Innovació i Tecnologia \"EUNCET\" (Campus Terrassa)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31135",
+    "nom_carrera": "Gestió i Digitalització en l'Esport \"EUNCET\"",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31136",
+    "nom_carrera": "\"EUNCET\" (Campus Can Dragó + Campus 22@) (presencial)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "31137",
+    "nom_carrera": "l'Esport \"EUNCET\" (Campus Can Dragó + Campus 22@)",
+    "tipus": "Grau",
+    "universitat": "UPC",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41002",
+    "nom_carrera": "Comunicació Audiovisual",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41003",
+    "nom_carrera": "Infermeria (Campus Bellvitge)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41004",
+    "nom_carrera": "Publicitat i Relacions Públiques",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41006",
+    "nom_carrera": "Traducció i Interpretació - Anglès",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41008",
+    "nom_carrera": "Administració i Direcció d'Empreses",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41009",
+    "nom_carrera": "Ciències i Tecnologies del Mar",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41010",
+    "nom_carrera": "Ciències Polítiques i de l'Administració",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41011",
+    "nom_carrera": "Criminologia i Polítiques Públiques de Prevenció",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41013",
+    "nom_carrera": "Dret",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41014",
+    "nom_carrera": "Economia",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41021",
+    "nom_carrera": "Infermeria \"Escola Superior d'Infermeria del Mar\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41022",
+    "nom_carrera": "Business Economics (docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41023",
+    "nom_carrera": "Llengües Aplicades",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41024",
+    "nom_carrera": "Business and Marketing \"ESCI\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41025",
+    "nom_carrera": "Periodisme",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41026",
+    "nom_carrera": "Relacions Laborals",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41029",
+    "nom_carrera": "Administració d'Empreses i Gestió de la Innovació \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41031",
+    "nom_carrera": "Infermeria \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41034",
+    "nom_carrera": "de Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41035",
+    "nom_carrera": "la Innovació \"Tecnocampus\" (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41036",
+    "nom_carrera": "(Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41037",
+    "nom_carrera": "\"Tecnocampus\" (simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41038",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41039",
+    "nom_carrera": "Màrqueting i Comunitats Digitals \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41040",
+    "nom_carrera": "Catalana -",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41041",
+    "nom_carrera": "CSJ 0,2 0,2 0,2",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41042",
+    "nom_carrera": "UAM/UC3M",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41043",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41045",
+    "nom_carrera": "Disseny i Producció de Videojocs / Enginyeria Informàtica de Gestió",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41047",
+    "nom_carrera": "Eng. Informàtica de Gestió i Sistemes d'Informació \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41048",
+    "nom_carrera": "Logopèdia",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41049",
+    "nom_carrera": "Mitjans Audiovisuals \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41050",
+    "nom_carrera": "Grau Obert, Programa de (Agrupació)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41052",
+    "nom_carrera": "Producció de Videojocs \"Tecnocampus\" (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41054",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41055",
+    "nom_carrera": "Fisioteràpia \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41057",
+    "nom_carrera": "Industrial i Automàtica \"Tecnocampus\" (Agrupació)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41058",
+    "nom_carrera": "Medicina",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41061",
+    "nom_carrera": "Nutrició Humana i Dietètica \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41062",
+    "nom_carrera": "\"Tecnocampus\" (simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41063",
+    "nom_carrera": "Business and Marketing \"ESCI\" (docència en anglès)",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41065",
+    "nom_carrera": "Estudis Globals",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41067",
+    "nom_carrera": "Enginyeria Biomèdica",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41068",
+    "nom_carrera": "Enginyeria de Xarxes de Telecomunicació",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41069",
+    "nom_carrera": "Enginyeria en Informàtica",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41070",
+    "nom_carrera": "Enginyeria Matemàtica en Ciència de Dades",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41071",
+    "nom_carrera": "Ciències Biomèdiques",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "41072",
+    "nom_carrera": "Enginyeria Audiovisual Computacional",
+    "tipus": "Grau",
+    "universitat": "UPF",
+    "ciutat": "Barcelona"
+  },
+  {
+    "codi": "61003",
+    "nom_carrera": "Administració i Direcció d'Empreses (Igualada)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61004",
+    "nom_carrera": "Ciències Biomèdiques",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61005",
+    "nom_carrera": "Biotecnologia",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61006",
+    "nom_carrera": "Enginyeria Agrària i Alimentària",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61007",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61008",
+    "nom_carrera": "Ciència i Tecnologia dels Aliments",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61009",
+    "nom_carrera": "Comunicació i Periodisme Audiovisuals",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61010",
+    "nom_carrera": "Dret",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61011",
+    "nom_carrera": "Educació Infantil",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61013",
+    "nom_carrera": "Educació Social",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61014",
+    "nom_carrera": "Enginyeria Forestal",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61015",
+    "nom_carrera": "Enginyeria Informàtica",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61016",
+    "nom_carrera": "Arquitectura Tècnica i Edificació",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61019",
+    "nom_carrera": "Fisioteràpia",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61020",
+    "nom_carrera": "Psicologia",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61021",
+    "nom_carrera": "Turisme",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61026",
+    "nom_carrera": "Geografia",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61028",
+    "nom_carrera": "Història",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61029",
+    "nom_carrera": "Infermeria",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61030",
+    "nom_carrera": "Medicina",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61031",
+    "nom_carrera": "Nutrició Humana i Dietètica",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61033",
+    "nom_carrera": "Relacions Laborals i Recursos Humans",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61034",
+    "nom_carrera": "Treball Social",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61035",
+    "nom_carrera": "Dret / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61036",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61037",
+    "nom_carrera": "Educació Primària / Educació Infantil (5 anys) (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61038",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61039",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61040",
+    "nom_carrera": "Veterinària / Ciència i Producció Animal (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61042",
+    "nom_carrera": "Conservació de la Natura / Enginyeria Forestal (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61044",
+    "nom_carrera": "Informàtica i Serveis",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61046",
+    "nom_carrera": "Infermeria (Igualada)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61051",
+    "nom_carrera": "Llengües Aplicades i Traducció / Estudis Anglesos (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61053",
+    "nom_carrera": "Turisme / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61054",
+    "nom_carrera": "Estudis Anglesos / Llengües Aplicades i Traducció (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61055",
+    "nom_carrera": "Filologia Catalana i Estudis Occitans",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61057",
+    "nom_carrera": "Nutrició Humana i Dietètica / Fisioteràpia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61058",
+    "nom_carrera": "Occitans (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61060",
+    "nom_carrera": "Enginyeria en Organització Industrial i Logística / Enginyeria Química (Agrupació)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61061",
+    "nom_carrera": "Mecànica / Enginyeria de l'Energia i Sostenibilitat (agrupació)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61064",
+    "nom_carrera": "Disseny Digital i Tecnologies Creatives",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61065",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61069",
+    "nom_carrera": "Administració i Direcció d'Empreses",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61070",
+    "nom_carrera": "Direcció d'Empreses (simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61071",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport (La Seu d'Urgell)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61072",
+    "nom_carrera": "Educació Primària (modalitat bilingüe)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61073",
+    "nom_carrera": "Educació Primària (modalitat dual)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61074",
+    "nom_carrera": "Enginyeria Informàtica",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61075",
+    "nom_carrera": "Enginyeria de l'Energia i Sostenibilitat / Enginyeria en Electrònica Industrial i Automàtica / Enginyeria Mecànica (agrupació) Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrial)",
+    "tipus": "Master",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61076",
+    "nom_carrera": "Enginyeria Informàtica, Grau en + Màster Universitari en Enginyeria Informàtica (PARS: Enginyer/a Informàtic/a)",
+    "tipus": "Master",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61077",
+    "nom_carrera": "\"Centre Universitari EAE\"",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61078",
+    "nom_carrera": "Màrqueting i Comunicació Digital \"Centre Universitari EAE\"",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61079",
+    "nom_carrera": "Filologia Hispànica",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61080",
+    "nom_carrera": "Llengües i Literatures Modernes",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61081",
+    "nom_carrera": "Història, Política i Economia Contemporànies",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "61082",
+    "nom_carrera": "Infermeria (Tremp)",
+    "tipus": "Grau",
+    "universitat": "UdL",
+    "ciutat": "Lleida"
+  },
+  {
+    "codi": "71002",
+    "nom_carrera": "Administració i Direcció d'Empreses (Reus)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71003",
+    "nom_carrera": "Anglès",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71004",
+    "nom_carrera": "Administració i Direcció d'Empreses (Tortosa)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71005",
+    "nom_carrera": "Bioquímica i Biologia Molecular",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71006",
+    "nom_carrera": "Biotecnologia",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71007",
+    "nom_carrera": "Comunicació Audiovisual",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71008",
+    "nom_carrera": "Dret",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71009",
+    "nom_carrera": "Economia",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71010",
+    "nom_carrera": "Educació Infantil",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71011",
+    "nom_carrera": "Educació Primària",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71012",
+    "nom_carrera": "Educació Social",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71013",
+    "nom_carrera": "Enologia",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71014",
+    "nom_carrera": "Finances i Comptabilitat",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71015",
+    "nom_carrera": "Geografia, Anàlisi Territorial i Sostenibilitat",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71016",
+    "nom_carrera": "Infermeria",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71019",
+    "nom_carrera": "Medicina",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71020",
+    "nom_carrera": "Pedagogia",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71021",
+    "nom_carrera": "Periodisme",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71022",
+    "nom_carrera": "Psicologia",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71023",
+    "nom_carrera": "Publicitat i Relacions Públiques",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71024",
+    "nom_carrera": "Química",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71026",
+    "nom_carrera": "Treball Social",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71028",
+    "nom_carrera": "Infermeria (Tortosa)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71029",
+    "nom_carrera": "Educació Infantil (Tortosa)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71032",
+    "nom_carrera": "Infermeria (El Vendrell)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71033",
+    "nom_carrera": "Educació Primària",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71034",
+    "nom_carrera": "Educació Infantil (El Vendrell)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71037",
+    "nom_carrera": "Enginyeria Elèctrica",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71038",
+    "nom_carrera": "Enginyeria Electrònica Industrial i Automàtica",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71039",
+    "nom_carrera": "Enginyeria Informàtica",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71040",
+    "nom_carrera": "Enginyeria Mecànica",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71041",
+    "nom_carrera": "Enginyeria Química",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71042",
+    "nom_carrera": "Enginyeria de Sistemes i Serveis de Telecomunicacions",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71043",
+    "nom_carrera": "Fisioteràpia (Reus)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71044",
+    "nom_carrera": "Nutrició Humana i Dietètica",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71045",
+    "nom_carrera": "Geografia, Anàlisi Territorial i Sostenibilitat",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71048",
+    "nom_carrera": "Fisioteràpia (Tortosa)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71049",
+    "nom_carrera": "Antropologia i Evolució Humana (Virtual o Semipresencial)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71050",
+    "nom_carrera": "Educació Primària / Educació Infantil (5 anys) (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71053",
+    "nom_carrera": "(simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71054",
+    "nom_carrera": "Bioquímica i Biologia Molecular / Biotecnologia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71055",
+    "nom_carrera": "Dret / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71056",
+    "nom_carrera": "Enginyeria Informàtica / Biotecnologia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71058",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71061",
+    "nom_carrera": "Enginyeria de Bioprocessos Alimentaris",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71062",
+    "nom_carrera": "Màrqueting \"ESIC\" (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71063",
+    "nom_carrera": "Administració i Direcció d'Empreses \"IGEMA\"",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71064",
+    "nom_carrera": "Enginyeria Biomèdica",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71066",
+    "nom_carrera": "Química (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71068",
+    "nom_carrera": "Gestió en Turisme i Hoteleria",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71070",
+    "nom_carrera": "Enginyeria Biomèdica / Enginyeria de Sistemes i Serveis de Telecomunicacions (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71072",
+    "nom_carrera": "Llengua i Literatura Espanyoles",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71073",
+    "nom_carrera": "Llengües Aplicades",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71074",
+    "nom_carrera": "Màrqueting \"ESIC\" (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71076",
+    "nom_carrera": "Educació Primària / Educació Infantil (5 anys) (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71077",
+    "nom_carrera": "Història",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71078",
+    "nom_carrera": "Història de l'Art i Gestió del Patrimoni Artístic",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71079",
+    "nom_carrera": "(simultaneïtat) Reus / Barcelona",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71080",
+    "nom_carrera": "(simultaneïtat) Tortosa / Barcelona",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71081",
+    "nom_carrera": "Enginyeria Matemàtica i Física",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71082",
+    "nom_carrera": "Relacions Laborals i Recursos Humans",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71083",
+    "nom_carrera": "Relacions Laborals i Recursos Humans / Dret (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71084",
+    "nom_carrera": "Infermeria (Vilafranca del Penedès)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71085",
+    "nom_carrera": "Direcció i Gestió d'Empreses en l'Àmbit Digital \"ESIC\"",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71086",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport \"EUSES\"",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71087",
+    "nom_carrera": "Arquitectura, Estudis",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "71088",
+    "nom_carrera": "(simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "URV",
+    "ciutat": "Tarragona"
+  },
+  {
+    "codi": "81001",
+    "nom_carrera": "Medicina",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81002",
+    "nom_carrera": "Publicitat i Relacions Públiques",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81003",
+    "nom_carrera": "Administració i Direcció d'Empreses",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81005",
+    "nom_carrera": "CSJ 0,2 0,2",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81006",
+    "nom_carrera": "Biologia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81007",
+    "nom_carrera": "Biotecnologia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81008",
+    "nom_carrera": "Ciències Ambientals",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81010",
+    "nom_carrera": "Ciències Polítiques i de l'Administració",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81011",
+    "nom_carrera": "Comptabilitat i Finances",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81013",
+    "nom_carrera": "Criminologia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81015",
+    "nom_carrera": "Dret",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81016",
+    "nom_carrera": "Economia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81017",
+    "nom_carrera": "Educació Infantil",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81018",
+    "nom_carrera": "Educació Primària",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81019",
+    "nom_carrera": "Educació Social",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81020",
+    "nom_carrera": "Arquitectura Tècnica i Edificació",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81021",
+    "nom_carrera": "Enginyeria Electrònica Industrial i Automàtica",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81022",
+    "nom_carrera": "Enginyeria Mecànica",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81023",
+    "nom_carrera": "Enginyeria Química",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81032",
+    "nom_carrera": "Enginyeria Agroalimentària",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81033",
+    "nom_carrera": "Psicologia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81034",
+    "nom_carrera": "Química",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81036",
+    "nom_carrera": "Turisme \"Euroaula\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81038",
+    "nom_carrera": "Turisme \"Mediterrani\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81039",
+    "nom_carrera": "Turisme",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81040",
+    "nom_carrera": "Enginyeria Elèctrica",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81042",
+    "nom_carrera": "Enginyeria Informàtica",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81043",
+    "nom_carrera": "Pedagogia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81044",
+    "nom_carrera": "Treball Social",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81045",
+    "nom_carrera": "Arts Escèniques \"ERAM\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81046",
+    "nom_carrera": "Industrials (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81047",
+    "nom_carrera": "Biotecnologia / Biologia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81048",
+    "nom_carrera": "Ciències Ambientals / Biologia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81049",
+    "nom_carrera": "Educació Primària / Educació Infantil (5 anys) (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81050",
+    "nom_carrera": "(Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81051",
+    "nom_carrera": "Màrqueting \"ESIC\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81052",
+    "nom_carrera": "Economia / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81053",
+    "nom_carrera": "Dret / Administració i Direcció d'Empreses (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81054",
+    "nom_carrera": "Dret / Ciències Polítiques i de l'Administració (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81056",
+    "nom_carrera": "Dret / Criminologia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81057",
+    "nom_carrera": "Arquitectura, Estudis d'",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81058",
+    "nom_carrera": "Intelꞏligència Artificial",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81059",
+    "nom_carrera": "Disseny i Desenvolupament de Videojocs",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81062",
+    "nom_carrera": "Turisme / Màrqueting \"Mediterrani\" (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81063",
+    "nom_carrera": "Enginyeria Biomèdica",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81064",
+    "nom_carrera": "Logística i Negocis Marítims \"Tecnocampus\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81065",
+    "nom_carrera": "Arquitectura Tècnica i Edificació (Semipresencial)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81066",
+    "nom_carrera": "Infermeria",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81067",
+    "nom_carrera": "Comunicació Audiovisual / Gestió d'Informació i Documentació",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81068",
+    "nom_carrera": "Comunicació Cultural",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81069",
+    "nom_carrera": "Economia / Filosofia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81070",
+    "nom_carrera": "Filologia Catalana",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81071",
+    "nom_carrera": "Filologia Hispànica",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81072",
+    "nom_carrera": "Filosofia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81073",
+    "nom_carrera": "Geografia, Territori i Medi Ambient",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81074",
+    "nom_carrera": "Història",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81075",
+    "nom_carrera": "Història de l'Art",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81076",
+    "nom_carrera": "Turisme / Geografia, Territori i Medi Ambient (simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81077",
+    "nom_carrera": "Turisme / Publicitat i Relacions Públiques (simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81078",
+    "nom_carrera": "Història de l'Art i Arqueologia",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81079",
+    "nom_carrera": "Moda \"ERAM\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81080",
+    "nom_carrera": "Filologia Hispànica / Llengües Aplicades i Traducció (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81081",
+    "nom_carrera": "Nutrició Humana i Dietètica \"EUSES\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81082",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport \"EUSES\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81083",
+    "nom_carrera": "Direcció d'Empreses Hoteleres i Gastronòmiques",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81084",
+    "nom_carrera": "Estudis Globals / Global Studies (docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81085",
+    "nom_carrera": "(simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81086",
+    "nom_carrera": "(simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81087",
+    "nom_carrera": "Fisioteràpia \"EUSES\"",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "81088",
+    "nom_carrera": "Industrials)",
+    "tipus": "Grau",
+    "universitat": "UdG",
+    "ciutat": "Girona"
+  },
+  {
+    "codi": "91001",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91003",
+    "nom_carrera": "Administració i Direcció d'Empreses",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91004",
+    "nom_carrera": "Biotecnologia",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91006",
+    "nom_carrera": "UVic-UCC CSJ 0,2 0,2",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91007",
+    "nom_carrera": "Disseny, Animació i Art Digital per a Videojocs i Jocs Aplicats",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91008",
+    "nom_carrera": "Educació Infantil",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91009",
+    "nom_carrera": "Educació Primària",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91010",
+    "nom_carrera": "Empresa Internacional (Docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91011",
+    "nom_carrera": "Enginyeria Mecatrònica",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91012",
+    "nom_carrera": "Fisioteràpia",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91013",
+    "nom_carrera": "Infermeria",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91014",
+    "nom_carrera": "Pilot d'Aviació Comercial i Operacions Aèries",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91015",
+    "nom_carrera": "Publicitat i Relacions Públiques",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91016",
+    "nom_carrera": "Teràpia Ocupacional (Presencial / Semipresencial)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91018",
+    "nom_carrera": "Biologia",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91021",
+    "nom_carrera": "Nutrició Humana i Dietètica",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91022",
+    "nom_carrera": "Psicologia",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91029",
+    "nom_carrera": "Multimèdia. Aplicacions i Videojocs",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91030",
+    "nom_carrera": "(5 anys) (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91032",
+    "nom_carrera": "Màrqueting i Comunicació Empresarial",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91038",
+    "nom_carrera": "Educació Infantil (Campus Manresa)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91041",
+    "nom_carrera": "Fisioteràpia (Campus Manresa)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91042",
+    "nom_carrera": "Administració i Direcció d'Empreses (Campus Manresa)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91043",
+    "nom_carrera": "Infermeria (Campus Manresa)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91045",
+    "nom_carrera": "Podologia (Campus Manresa)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91050",
+    "nom_carrera": "Criminologia \"ESERP\"",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91051",
+    "nom_carrera": "Enginyeria de l'Automoció",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91053",
+    "nom_carrera": "Dret \"ESERP\"",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91054",
+    "nom_carrera": "Microbiologia",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91055",
+    "nom_carrera": "l'Activitat Física i de l'Esport (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91056",
+    "nom_carrera": "Disseny i Innovació \"Elisava\"",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91057",
+    "nom_carrera": "Enginyeria de Disseny Industrial \"Elisava\"",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91058",
+    "nom_carrera": "Biomedicina",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91059",
+    "nom_carrera": "Belles Arts \"BAU\"",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91060",
+    "nom_carrera": "Gestió de la Societat Digital (Campus Manresa)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91061",
+    "nom_carrera": "Odontologia (Campus Medicina, Vic)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91062",
+    "nom_carrera": "Estudis Globals / Global Studies (docència en Anglès)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91063",
+    "nom_carrera": "Belles Arts",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91064",
+    "nom_carrera": "Infermeria / Fisioteràpia (Simultaneïtat)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91915",
+    "nom_carrera": "Tecnologies Industrials amb Anàlisi Econòmica, Grau en + Màster Universitari en Enginyeria Industrial (PARS: Enginyer/a Industrialamb Anàlisi Econòmica) (docència en Anglès)",
+    "tipus": "Master",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91917",
+    "nom_carrera": "UAB/UPF",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91918",
+    "nom_carrera": "UdG/UB CS",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91919",
+    "nom_carrera": "nacionalitat espanyola ni residència a l'Estat Espanyol)",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91920",
+    "nom_carrera": "Estadística",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91921",
+    "nom_carrera": "Disseny per als Sistemes Alimentaris “ELISAVA-CETT”",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  },
+  {
+    "codi": "91922",
+    "nom_carrera": "UB/UPC",
+    "tipus": "Grau",
+    "universitat": "UVic-UCC",
+    "ciutat": "Vic"
+  }
+]
