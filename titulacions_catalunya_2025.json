@@ -1386,14 +1386,7 @@
     "ciutat": "Cerdanyola del Vallès"
   },
   {
-    "codi": "21167",
-    "nom_carrera": "(simultaneïtat)",
-    "tipus": "Grau",
-    "universitat": "UAB",
-    "ciutat": "Cerdanyola del Vallès"
-  },
-  {
-    "codi": "21168",
+    "codi": "21001",
     "nom_carrera": "Física",
     "tipus": "Grau",
     "universitat": "UAB",
@@ -2066,14 +2059,14 @@
   },
   {
     "codi": "41042",
-    "nom_carrera": "UAM/UC3M",
+    "nom_carrera": "Filosofia, Política i Economia",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
   },
   {
     "codi": "41043",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Criminologia i Polítiques Públiques de Prevenció / Dret (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
@@ -2122,7 +2115,7 @@
   },
   {
     "codi": "41054",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Llengües Aplicades / Traducció i Interpretació - Anglès - (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
@@ -2388,7 +2381,7 @@
   },
   {
     "codi": "61036",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Enginyeria Informàtica / Administració i Direcció d'Empreses (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdL",
     "ciutat": "Lleida"
@@ -2402,14 +2395,14 @@
   },
   {
     "codi": "61038",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Educació Primària / Ciències de l'Activitat Física i de l'Esport (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdL",
     "ciutat": "Lleida"
   },
   {
     "codi": "61039",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdL",
     "ciutat": "Lleida"
@@ -2507,7 +2500,7 @@
   },
   {
     "codi": "61065",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Enginyeria de l'Energia i Sostenibilitat / Enginyeria Mecànica (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdL",
     "ciutat": "Lleida"
@@ -2885,7 +2878,7 @@
   },
   {
     "codi": "71053",
-    "nom_carrera": "(simultaneïtat)",
+    "nom_carrera": "Administració i Direcció d'Empreses / Finances i Comptabilitat (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "URV",
     "ciutat": "Tarragona"
@@ -2913,7 +2906,7 @@
   },
   {
     "codi": "71058",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Eng. Elèctrica / Eng. Electrònica, Industrial i Automàtica (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "URV",
     "ciutat": "Tarragona"
@@ -3011,14 +3004,14 @@
   },
   {
     "codi": "71079",
-    "nom_carrera": "(simultaneïtat) Reus / Barcelona",
+    "nom_carrera": "Administració i Direcció d'Empreses / Màrqueting \"ESIC\" (simultaneïtat) Reus / Barcelona",
     "tipus": "Grau",
     "universitat": "URV",
     "ciutat": "Tarragona"
   },
   {
     "codi": "71080",
-    "nom_carrera": "(simultaneïtat) Tortosa / Barcelona",
+    "nom_carrera": "Administració i Direcció d'Empreses / Màrqueting \"ESIC\" (simultaneïtat) Tortosa / Barcelona",
     "tipus": "Grau",
     "universitat": "URV",
     "ciutat": "Tarragona"
@@ -3074,7 +3067,7 @@
   },
   {
     "codi": "71088",
-    "nom_carrera": "(simultaneïtat)",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia \"EUSES\" (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "URV",
     "ciutat": "Tarragona"
@@ -3319,7 +3312,7 @@
   },
   {
     "codi": "81050",
-    "nom_carrera": "(Simultaneïtat)",
+    "nom_carrera": "Eng. Elèctrica / Eng. Electrònica, Industrial i Automàtica (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdG",
     "ciutat": "Girona"
@@ -3536,21 +3529,14 @@
   },
   {
     "codi": "81084",
-    "nom_carrera": "Estudis Globals / Global Studies (docència en Anglès)",
-    "tipus": "Grau",
-    "universitat": "UdG",
-    "ciutat": "Girona"
-  },
-  {
-    "codi": "81085",
-    "nom_carrera": "(simultaneïtat)",
+    "nom_carrera": "Estudis Globals / Global Studies (docència en Anglès) /Turisme (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdG",
     "ciutat": "Girona"
   },
   {
     "codi": "81086",
-    "nom_carrera": "(simultaneïtat)",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia\"EUSES\" (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdG",
     "ciutat": "Girona"
@@ -3892,3 +3878,4 @@
     "ciutat": "Vic"
   }
 ]
+
