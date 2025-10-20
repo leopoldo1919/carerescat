@@ -1604,7 +1604,7 @@
   },
   {
     "codi": "31083",
-    "nom_carrera": "(Campus Barcelona)",
+    "nom_carrera": "Disseny i (Campus Desenvolupament Barcelona) de Videojocs (Docència en Anglès)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -1786,7 +1786,7 @@
   },
   {
     "codi": "31125",
-    "nom_carrera": "(semipresencial)",
+    "nom_carrera": "Empresa, Innovació i Tecnologia \"EUNCET\" (Campus 22@)(semipresencial)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -1800,7 +1800,7 @@
   },
   {
     "codi": "31127",
-    "nom_carrera": "(semipresencial)",
+    "nom_carrera": "Empresa, Innovació i Tecnologia \"EUNCET\" (Campus Terrassa) (semipresencial)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -1814,21 +1814,21 @@
   },
   {
     "codi": "31129",
-    "nom_carrera": "CSJ 0,2 0,2 0,2",
+    "nom_carrera": "Empresa, Innovació i Tecnologia \"EUNCET\" / Màrqueting,Tecnologia \"EUNCET\" (Campus 22@) (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
   },
   {
     "codi": "31130",
-    "nom_carrera": "Tecnologia \"EUNCET\" (Campus Terrassa) (presencial)",
+    "nom_carrera": "TMàrqueting, Innovació i Tecnologia / Empresa,\"EUNCET\" Innovació i Tecnologia (Campus Terrassa) (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
   },
   {
     "codi": "31131",
-    "nom_carrera": "CSJ 0,2 0,2",
+    "nom_carrera": "Màrqueting, Innovació i Tecnologia \"EUNCET\" (Campus 22@) (semipresencial)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -1842,7 +1842,7 @@
   },
   {
     "codi": "31133",
-    "nom_carrera": "CSJ 0,2 0,2",
+    "nom_carrera": "Màrqueting, Innovació i Tecnologia \"EUNCET\" (Campus Terrassa) (semipresencial)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -2003,28 +2003,28 @@
   },
   {
     "codi": "41034",
-    "nom_carrera": "de Simultaneïtat)",
+    "nom_carrera": "Administració i Direcció d'Empreses - Economia / Dret (Agrupació de Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
   },
   {
     "codi": "41035",
-    "nom_carrera": "la Innovació \"Tecnocampus\" (Simultaneïtat)",
+    "nom_carrera": "Administració d'Empreses i Gestió de la Innovació/Turisme i Gestió del la Innovació Lleure \"Tecnocampus\" (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
   },
   {
     "codi": "41036",
-    "nom_carrera": "(Docència en Anglès)",
+    "nom_carrera": "Administració d'Empreses i Gestió de la Innovació \"Tecnocampus\" (Docènciaen Anglès)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
   },
   {
     "codi": "41037",
-    "nom_carrera": "\"Tecnocampus\" (simultaneïtat)",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport / Fisioteràpia \"Tecnocampus\" (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
@@ -2045,14 +2045,14 @@
   },
   {
     "codi": "41040",
-    "nom_carrera": "Catalana -",
+    "nom_carrera": "Traducció i Interpretació - Alemany / Francès / Llengua de Signes Catalana -",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
   },
   {
     "codi": "41041",
-    "nom_carrera": "CSJ 0,2 0,2 0,2",
+    "nom_carrera": "Administració d'Empreses i Gestió de la Innovació/ Màrqueting i Comunitats Digitals \"Tecnocampus\" (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
@@ -2150,7 +2150,7 @@
   },
   {
     "codi": "41062",
-    "nom_carrera": "\"Tecnocampus\" (simultaneïtat)",
+    "nom_carrera": "Màrqueting i Comunitats Digitals / Turisme i Gestió delLleure \"Tecnocampus\" (simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UPF",
     "ciutat": "Barcelona"
@@ -2472,7 +2472,7 @@
   },
   {
     "codi": "61058",
-    "nom_carrera": "Occitans (Simultaneïtat)",
+    "nom_carrera": "Filologia Catalana i Estudis Occitans / Llengües Aplicades i Traducció (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UdL",
     "ciutat": "Lleida"
@@ -2563,7 +2563,7 @@
   },
   {
     "codi": "61077",
-    "nom_carrera": "\"Centre Universitari EAE\"",
+    "nom_carrera": "Administració i Direcciód'Empreses i Transformació de Negocis \"Centre Universitari EAE\"",
     "tipus": "Grau",
     "universitat": "UdL",
     "ciutat": "Lleida"
@@ -3095,7 +3095,7 @@
   },
   {
     "codi": "81005",
-    "nom_carrera": "CSJ 0,2 0,2",
+    "nom_carrera": "Comunicació Audiovisual i Multimèdia \"ERAM\"",
     "tipus": "Grau",
     "universitat": "UdG",
     "ciutat": "Girona"
@@ -3550,7 +3550,7 @@
   },
   {
     "codi": "81088",
-    "nom_carrera": "Industrials)",
+    "nom_carrera": "Enginyeria en Tecnologies Industrials",
     "tipus": "Grau",
     "universitat": "UdG",
     "ciutat": "Girona"
@@ -3578,7 +3578,7 @@
   },
   {
     "codi": "91006",
-    "nom_carrera": "UVic-UCC CSJ 0,2 0,2",
+    "nom_carrera": "Comunicació Audiovisual",
     "tipus": "Grau",
     "universitat": "UVic-UCC",
     "ciutat": "Vic"
@@ -3683,7 +3683,7 @@
   },
   {
     "codi": "91030",
-    "nom_carrera": "(5 anys) (Simultaneïtat)",
+    "nom_carrera": "Educació Infantil / Educació Primària (Menció en Llengua Anglesa) (5 anys) (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UVic-UCC",
     "ciutat": "Vic"
@@ -3837,21 +3837,21 @@
   },
   {
     "codi": "91917",
-    "nom_carrera": "UAB/UPF",
+    "nom_carrera": "Bioinformàtica (Docència en Anglès)",
     "tipus": "Grau",
     "universitat": "UVic-UCC",
     "ciutat": "Vic"
   },
   {
     "codi": "91918",
-    "nom_carrera": "UdG/UB CS",
+    "nom_carrera": "Fisioteràpia (Docència en Anglès) (Només per a estudiants espanyols o estrangers amb residència)",
     "tipus": "Grau",
     "universitat": "UVic-UCC",
     "ciutat": "Vic"
   },
   {
     "codi": "91919",
-    "nom_carrera": "nacionalitat espanyola ni residència a l'Estat Espanyol)",
+    "nom_carrera": "Fisioteràpia (Docència en Anglès) (Només per a estudiants sense nacionalitat espanyola ni residència a l'Estat Espanyola)",
     "tipus": "Grau",
     "universitat": "UVic-UCC",
     "ciutat": "Vic"
@@ -3872,10 +3872,11 @@
   },
   {
     "codi": "91922",
-    "nom_carrera": "UB/UPC",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport / Educació Primària (Menció en Educació Física) (Simultaneïtat)",
     "tipus": "Grau",
     "universitat": "UVic-UCC",
     "ciutat": "Vic"
   }
 ]
+
 
