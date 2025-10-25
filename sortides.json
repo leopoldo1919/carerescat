@@ -1,0 +1,46 @@
+{
+  "categoria": "sortides",
+  "natura": [
+    "excursions",
+    "platja",
+    "acampada",
+    "observació d’aus",
+    "rutes en bici",
+    "pícnic"
+  ],
+  "urbanes": [
+    "passejades pel centre",
+    "fotografia urbana",
+    "compres",
+    "escape rooms",
+    "jocs de pistes"
+  ],
+  "cultura": [
+    "museus",
+    "teatre",
+    "cinema",
+    "concerts",
+    "festivals",
+    "exposicions"
+  ],
+  "gastronomia": [
+    "rutes de tapes",
+    "tast de vins",
+    "mercats locals",
+    "food trucks",
+    "restauració temàtica"
+  ],
+  "oci_nocturn": [
+    "bars",
+    "discoteques",
+    "karaoke",
+    "pub quiz",
+    "salsa/bachata"
+  ],
+  "viatges_curts": [
+    "escapades de cap de setmana",
+    "rutes en cotxe",
+    "turisme rural",
+    "visites a pobles"
+  ]
+}

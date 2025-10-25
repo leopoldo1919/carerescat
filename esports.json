@@ -1,0 +1,38 @@
+{
+  "categoria": "esports",
+  "equip": [
+    "futbol",
+    "bàsquet",
+    "voleibol",
+    "handbol",
+    "rugbi",
+    "beisbol",
+    "hockey"
+  ],
+  "individuals": [
+    "tennis",
+    "pàdel",
+    "atletisme",
+    "natació",
+    "ciclisme",
+    "arts marcials",
+    "golf"
+  ],
+  "aire_lliure": [
+    "senderisme",
+    "trail",
+    "escalada",
+    "surf",
+    "esquí",
+    "snowboard",
+    "caiac"
+  ],
+  "interior": [
+    "gimnàs/fitness",
+    "ioga",
+    "pilates",
+    "escalada indoor",
+    "spinning",
+    "boxa"
+  ]
+}

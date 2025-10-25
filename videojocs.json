@@ -1,0 +1,33 @@
+{
+  "categoria": "videojocs",
+  "generes": [
+    "RPG",
+    "FPS",
+    "MOBA",
+    "estratègia (RTS/4X)",
+    "plataformes",
+    "sandbox",
+    "simulació",
+    "aventura narrativa",
+    "roguelike",
+    "indie"
+  ],
+  "activitats": [
+    "speedrunning",
+    "streaming",
+    "esports electrònics",
+    "modding",
+    "coleccionisme retro",
+    "trofeus/aconseguiments",
+    "multijugador local",
+    "roleplay online"
+  ],
+  "plataformes": [
+    "PC",
+    "PlayStation",
+    "Xbox",
+    "Nintendo Switch",
+    "mòbil",
+    "retro/consoles clàssiques"
+  ]
+}

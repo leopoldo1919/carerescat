@@ -1,0 +1,29 @@
+{
+  "categoria": "lectures",
+  "generes": [
+    "fantasia",
+    "ciència-ficció",
+    "misteri/thriller",
+    "romanç",
+    "no-ficció",
+    "assaig",
+    "biografies",
+    "història",
+    "còmic/manga",
+    "poesia"
+  ],
+  "formats": [
+    "paper",
+    "ebook",
+    "audiollibre",
+    "revistes digitals",
+    "butlletins/newsletters"
+  ],
+  "activitats": [
+    "clubs de lectura",
+    "ressenyes a Goodreads",
+    "bookstagram/booktok",
+    "intercanvi de llibres",
+    "escriptura fan"
+  ]
+}
