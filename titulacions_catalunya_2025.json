@@ -330,7 +330,7 @@
   },
   {
     "codi": "11061",
-    "nom_carrera": "AH 0,1 0,1",
+    "nom_carrera": "Filosofia (Barcelona",
     "tipus": "Grau",
     "universitat": "UB",
     "ciutat": "Barcelona"
@@ -1415,7 +1415,7 @@
   },
   {
     "codi": "31006",
-    "nom_carrera": "(Vilanova i la Geltrú)",
+    "nom_carrera": "Enginyeria de Disseny Industrial i Desenvolupament del Producte (Vilanova i laGeltrú)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -1450,7 +1450,7 @@
   },
   {
     "codi": "31022",
-    "nom_carrera": "(Terrassa)",
+    "nom_carrera": "Enginyeria de Disseny Industrial i Desenvolupament del Producte (Terrassa)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -3878,5 +3878,6 @@
     "ciutat": "Vic"
   }
 ]
+
 
 
