@@ -274,7 +274,7 @@
   },
   {
     "codi": "11046",
-    "nom_carrera": "UVic-UCC CS",
+    "nom_carrera": "Podologia (L'Hospitalet de Llobregat)",
     "tipus": "Grau",
     "universitat": "UB",
     "ciutat": "Barcelona"
@@ -484,7 +484,7 @@
   },
   {
     "codi": "11098",
-    "nom_carrera": "CSJ 0,2 0,2",
+    "nom_carrera": "Comunicació Audiovisual / Gestió d'Informació i Documentació Digital (simultaneïtat) (Barcelona)",
     "tipus": "Grau",
     "universitat": "UB",
     "ciutat": "Barcelona"
@@ -582,7 +582,7 @@
   },
   {
     "codi": "11112",
-    "nom_carrera": "CSJ 0,1 0,1",
+    "nom_carrera": "Negoci Digital i Innovació en Turisme / Turisme \"CETT\" (simultaneïtat) (Barcelona)",
     "tipus": "Grau",
     "universitat": "UB",
     "ciutat": "Barcelona"
@@ -736,7 +736,7 @@
   },
   {
     "codi": "21025",
-    "nom_carrera": "Sarrià\"",
+    "nom_carrera": "Enginyeria Electrònica Industrial i Automàtica \"EU Salesiana de Sarrià\" (Barcelona)",
     "tipus": "Grau",
     "universitat": "UAB",
     "ciutat": "Cerdanyola del Vallès"
@@ -1121,7 +1121,7 @@
   },
   {
     "codi": "21112",
-    "nom_carrera": "\"EU Salesiana de Sarrià\" (simultaneïtat)",
+    "nom_carrera": "Enginyeria Electrònica Industrial i Automàtica / Enginyeria Mecànica \"EU Salesiana de Sarrià\" (simultaneïtat) (Barcelona)",
     "tipus": "Grau",
     "universitat": "UAB",
     "ciutat": "Cerdanyola del Vallès"
@@ -1212,7 +1212,7 @@
   },
   {
     "codi": "21127",
-    "nom_carrera": "Salesiana de Sarrià\"",
+    "nom_carrera": "Enginyeria en Energies Renovables i Eficiència Energètica \"EU Salesiana de Sarrià\" (Barcelona)",
     "tipus": "Grau",
     "universitat": "UAB",
     "ciutat": "Cerdanyola del Vallès"
@@ -1625,7 +1625,7 @@
   },
   {
     "codi": "31086",
-    "nom_carrera": "(especialitats en Telecomunicació, Audiovisuals, i Telemàtica, que",
+    "nom_carrera": "Enginyeria de Tecnologies i Serveis de Telecomunicació (especialitats en Telecomunicació, Audiovisuals i Telemàtica, que inclou xarxes i internet)(Barcelona)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -1863,14 +1863,14 @@
   },
   {
     "codi": "31136",
-    "nom_carrera": "\"EUNCET\" (Campus Can Dragó + Campus 22@) (presencial)",
+    "nom_carrera": "Empresa, Innovació i Tecnologia / Gestió i Digitalització en l'Esport \"EUNCET\" (Campus Can Dragó + Campus 22@) (presencial) (simultaneïtat) (Barcelona)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
   },
   {
     "codi": "31137",
-    "nom_carrera": "l'Esport \"EUNCET\" (Campus Can Dragó + Campus 22@)",
+    "nom_carrera": "Gestió i Digitalització en l'Esport / Màrqueting, Innovació i Tecnologia \"EUNCET\" (Campus Can Dragó + Campus 22@) (presencial) (simultaneïtat) (Barcelona)",
     "tipus": "Grau",
     "universitat": "UPC",
     "ciutat": "Barcelona"
@@ -3760,7 +3760,7 @@
   },
   {
     "codi": "91055",
-    "nom_carrera": "l'Activitat Física i de l'Esport (Simultaneïtat)",
+    "nom_carrera": "Ciències de l'Activitat Física i de l'Esport / Educació Primària (menció en Educació Física) (simultaneïtat) (Vic) ",
     "tipus": "Grau",
     "universitat": "UVic-UCC",
     "ciutat": "Vic"
@@ -3878,6 +3878,7 @@
     "ciutat": "Vic"
   }
 ]
+
 
 
 
